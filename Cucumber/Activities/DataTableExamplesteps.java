@@ -8,7 +8,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
 
-public class DataTableExampleSteps extends BaseClass {
+public class DataTableExamplesteps extends BaseClass {
 	
 	@Given("user is on the To-Do list page")
 	public void openPage() {
