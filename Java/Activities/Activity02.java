@@ -1,5 +1,5 @@
 package Activities;
-public class Activity2 {
+public class Activity02 {
 
     public static void main(String[] args) {
 
