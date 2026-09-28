@@ -1,24 +1,4 @@
-//Create a TestNG Class with the annotations
-//@Test
-//@BeforeClass
-//@AfterClass
-//In the @BeforeClass method, create the a driver instance for FirefoxDriver
-//Also use the get() method to open the browser with https://training-support.net/webelements/target-practice
-//In the @AfterClass method, use close() to close the browser once the test is done.
-//Activity 5
-//Write tests for:
-//
-//Checking the page title
-//Header Tests:
-//Find the third header and assert the text in the h3 tag.
-//Find and assert the colour of the fifth header tag element.
-//Button Tests:
-//Find the button with the class emerald and assert it text.
-//Find and assert the colour of the first button in the third row.
-//Group the Header tests under a group, HeaderTests.
-//Group the Button tests under a group, ButtonTests.
 package activities;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
