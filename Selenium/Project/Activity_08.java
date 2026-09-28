@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 
-public class Activity8 {
+public class Activity_08 {
 	WebDriver driver;
     WebDriverWait wait;
     
