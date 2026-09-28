@@ -2,7 +2,7 @@ package Activities;
 
 import java.util.ArrayList;
 
-public class Activity8 {
+public class Activity08 {
 
 	public static void main(String[] args) {
         ArrayList<String> myList = new ArrayList<String>();
