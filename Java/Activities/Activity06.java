@@ -1,6 +1,6 @@
 package Activities;
 
-public class Activity6 {
+public class Activity06 {
 
 	public static void main(String[] args) throws InterruptedException {
         Plane plane = new Plane(10);
