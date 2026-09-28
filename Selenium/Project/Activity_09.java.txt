@@ -15,7 +15,7 @@ import org.testng.annotations.*;
 
 
 // Goal: Login and retrieve the emergency contacts for the user
-public class Activity9 {
+public class Activity_09 {
 	
 	WebDriver driver;
 	WebDriverWait explicitWait;
