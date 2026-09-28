@@ -25,7 +25,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class Activity2 {
+public class Activity002 {
     WebDriver driver;
 
     @BeforeTest
