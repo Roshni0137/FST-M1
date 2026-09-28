@@ -1,30 +1,4 @@
 package activities;
-
-//Create a TestNG Class with the annotations
-//@Test
-//@BeforeClass
-//@AfterClass
-//Once the Class file is created, import
-//By
-//WebDriver
-//FirefoxDriver
-//WebElement
-//Parameters
-//In the @BeforeClass method, create the a driver instance for FirefoxDriver
-//Also use the get() method to open the browser with https://training-support.net/webelements/login-form
-//In the @AfterClass method, use close() to close the browser once the test is done.
-//Write a @Test method, with the annotation @Parameters below @Test.
-//Pass "username" and "password" as the parameters. Also add them as formal parameters for the test method.
-//Use findElements() to find the username and password text boxes and the login button.
-//Use sendKeys() with the variable names as input. Then click() the login button.
-
-//In testng.xml,
-//
-//Add the <parameter> tags before the <classes> tag.
-//Add name parameters for username and password.
-//Set their value to "admin" and "password", respectively.
-//Save all the files and RUN testng.xml, NOT the test script.
-
 import java.time.Duration;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
