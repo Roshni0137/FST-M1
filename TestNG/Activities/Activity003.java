@@ -20,7 +20,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class Activity3 {
+public class Activity003 {
     WebDriver driver;
 
     @BeforeClass
