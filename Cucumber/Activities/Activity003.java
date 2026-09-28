@@ -1,4 +1,4 @@
-@activity3
+@Activity003
 Feature: Testing with Tags
 
 
