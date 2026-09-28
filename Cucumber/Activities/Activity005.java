@@ -1,5 +1,5 @@
 
-@activity5
+@Activity005
 Feature: Login Test
 
 Scenario Outline: Testing Login with Example
