@@ -39,7 +39,7 @@ import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-public class Activity6 {
+public class Activity006 {
     WebDriver driver;
     WebDriverWait wait;
 
