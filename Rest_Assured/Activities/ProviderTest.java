@@ -29,15 +29,3 @@ public class ProviderTest {
 	public void state1() {
 	}
 
-//    @State("GET Request")
-//    public void state2() {
-//    }
-//
-//    @State("DELETE Request")
-//    public void state3() {
-//    }
-
-//    @State("GET ALL Request")
-//    public void state4() {
-//    }
-}
