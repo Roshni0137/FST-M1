@@ -7,7 +7,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class Activity1 {
+public class Activity_01 {
 
 	WebDriver driver;
 	
