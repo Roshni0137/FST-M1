@@ -1,27 +1,4 @@
-////Create a TestNG Class with the annotations
-////@Test
-////@BeforeClass
-////@AfterClass
-////Once the Class file is created, import
-////By
-////WebDriver
-////FirefoxDriver
-////Assert
-//
-//Activity 10
-//Create a CS file with the following dataset included in it:
-//Full Name	Email	Date	Details
-//Satvik Shah	satshah@example.com	2025-01-26	Republic Day
-//Avinash Kati	avinashK@example.com	2025-04-05	Birthday
-//Lahri Rath	lahri.rath@example.com	2025-10-15	Holiday
-//Use OpenCSV to read the data from the CSV file into a DataProvider.
-//Use the data from the DataProvider to test the Simple form page.
-//Open the browser and navigate to https://training-support.net/webelements/simple-form.
-//Fill in the form with the data retrieved.
-//Read the alert message after submitted the form.
-//Close the browser.
 package activities;
-
 import static org.testng.Assert.assertEquals;
 import java.io.FileReader;
 import java.time.Duration;
