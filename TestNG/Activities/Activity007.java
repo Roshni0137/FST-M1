@@ -12,7 +12,7 @@ import org.testng.Assert;
 import org.testng.annotations.*;
 
 
-public class Activity7 {
+public class Activity007 {
 		
 	WebDriver driver;
 	WebDriverWait explicitWait;
