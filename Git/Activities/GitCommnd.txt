@@ -3,8 +3,8 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
 
-PS C:\FST Training\FST_Git> git clone git@github.com:rakhi-2026/FST-Practice-Repo-RakhiDas.git
-Cloning into 'FST-Practice-Repo-RakhiDas'...
+PS C:\FST Training\FST_Git> git clone git@github.com:Roshni-2026/FST-Practice-Repository-Roshni.git
+Cloning into 'FST-Practice-Repository-Roshni'...
 The authenticity of host 'github.com (20.207.73.82)' can't be established.
 ED25519 key fingerprint is: SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU
 This key is not known by any other names.
@@ -17,8 +17,8 @@ remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 Receiving objects: 100% (3/3), done.
 PS C:\FST Training\FST_Git> git pull
 fatal: not a git repository (or any of the parent directories): .git
-PS C:\FST Training\FST_Git> cd FST-Practice-Repo-RakhiDas
-PS C:\FST Training\FST_Git\FST-Practice-Repo-RakhiDas> git pull
+PS C:\FST Training\FST_Git> cd FST-Practice-Repository-Roshni
+PS C:\FST Training\FST_Git\FST-Practice-Repository-Roshni> git pull
 Already up to date.
 PS C:\FST Training\FST_Git\FST-Practice-Repo-RakhiDas> git add .
 warning: in the working copy of 'FST-Appium/test-output/Default suite/Default test.html', LF will be replaced by CRLF the next time Git touches it
@@ -95,7 +95,7 @@ PS C:\FST Training\FST_Git\FST-Practice-Repo-RakhiDas> git commit -m "Added Appi
  create mode 100644 FST-Appium/test-output/testng-reports1.css
  create mode 100644 FST-Appium/test-output/testng-reports2.js
  create mode 100644 FST-Appium/test-output/testng-results.xml
-PS C:\FST Training\FST_Git\FST-Practice-Repo-RakhiDas> git push origin main
+PS C:\FST Training\FST-Practice-Repository-Roshni> git push origin main
 Enumerating objects: 73, done.
 Counting objects: 100% (73/73), done.
 Delta compression using up to 12 threads
@@ -103,6 +103,6 @@ Compressing objects: 100% (66/66), done.
 Writing objects: 100% (72/72), 3.65 MiB | 1.91 MiB/s, done.
 Total 72 (delta 16), reused 0 (delta 0), pack-reused 0 (from 0)
 remote: Resolving deltas: 100% (16/16), done.
-To github.com:rakhi-2026/FST-Practice-Repo-RakhiDas.git
+To github.com:Roshni-2026/FST-Practice-Repository-Roshni.git
    3a6364f..760115f  main -> main
-PS C:\FST Training\FST_Git\FST-Practice-Repo-RakhiDas>
+PS C:\FST Training\FST_Git\FST-Practice-Repository-Roshni>
