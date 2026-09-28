@@ -4,7 +4,7 @@ interface Addable {
     int add(int a, int b);
 }
  
-public class Activity11 {
+public class Activity011 {
     public static void main(String[] args) {
  
         // Lambda expression without return keyword.
