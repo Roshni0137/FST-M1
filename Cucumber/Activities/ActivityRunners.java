@@ -1,4 +1,4 @@
-package testRunner;
+package ActivityRunners;
 
 
 import org.junit.platform.suite.api.Suite;
@@ -17,7 +17,7 @@ import org.junit.platform.suite.api.SelectPackages;
   value = "stepDefinitions")
 @ConfigurationParameter(
   key = Constants.FILTER_TAGS_PROPERTY_NAME,
-  value = "@activity1 or @activity2 or @activity3 or @activity4 or @activity5 ")
+  value = "@Activity001 or @Activity002 or @Activity003 or @Activity004 or @Activity005 ")
 
 @ConfigurationParameter(
 		key = Constants.PLUGIN_PROPERTY_NAME,
