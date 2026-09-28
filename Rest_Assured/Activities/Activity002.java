@@ -12,7 +12,7 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.given;
 
-public class Activity2 {
+public class Activity002 {
 	
 	String baseURI = "https://petstore.swagger.io/v2";
 	
