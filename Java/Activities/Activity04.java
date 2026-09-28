@@ -2,7 +2,7 @@ package Activities;
 
 import java.util.Arrays;
 
-public class Activity4 {
+public class Activity04 {
 	static void ascendingSort(int array[]) {
         // Sorting logic
         for (int i = 1; i < array.length; i++) {
