@@ -3,7 +3,7 @@
 <suite name="softwaretestingmaterial">
 	<test name="AllTests">
 		<classes>
-            <class name="Activities.Activity5"/>
+            <class name="Activities.Activity005_testing"/>
         </classes>
     </test>
     <test name="ButtonTests">
