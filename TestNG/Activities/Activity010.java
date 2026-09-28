@@ -39,7 +39,7 @@ import org.testng.annotations.Test;
 
 import com.opencsv.CSVReader;
 
-public class Activity10 {
+public class Activity010 {
 	// Declare WebDriver
 	WebDriver driver;
 	WebDriverWait wait;
