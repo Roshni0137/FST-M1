@@ -1,5 +1,5 @@
 package Activities;
 
-public class Activity1 {
+public class Activity01 {
 
 }
