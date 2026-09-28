@@ -1,5 +1,5 @@
 
-@activity6
+@Activity006
 
 Feature: To test input with Datatables
 Scenario: Adding items to a to-do list
