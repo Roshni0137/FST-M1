@@ -1,12 +1,4 @@
 package activities;
-
-//Confirm and Prompt Alerts can be closed using alert.accept() and alert.dismiss().
-//For the prompt alert, use alert().sendKeys() to type the text in the input box.
-//Use the logger methods to add logging sentences.
-//Add assertions statement in each test method.
-//Run the test script as a TestNG Test.
-//Observe results in the Console and the generated HTML file.
-
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
