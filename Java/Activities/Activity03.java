@@ -1,6 +1,6 @@
 package activityC;
 
-public class activity3 {
+public class activity03 {
 
     public static String adjustDevice(String device, int value) {
 
