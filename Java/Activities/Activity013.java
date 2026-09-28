@@ -2,7 +2,7 @@ package Activities;
 
 import java.util.Scanner;
 
-public class Activity13 {
+public class Activity013 {
 	
 	public void registerUser(String ageInput) {
 		try {
