@@ -1,4 +1,4 @@
-@activity1
+@Activity001
 Feature: First Test
 
 Scenario: Opening a webpage using Selenium
