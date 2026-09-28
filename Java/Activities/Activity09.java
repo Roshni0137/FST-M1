@@ -2,7 +2,7 @@ package Activities;
 
 import java.util.HashSet;
 
-public class Activity9 {
+public class Activity09 {
 
 	public static void main(String[] args) {
         HashSet<String> hs = new HashSet<String>();
