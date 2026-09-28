@@ -2,7 +2,7 @@ package Activities;
 
 import java.util.HashMap;
 
-public class Activity10 {
+public class Activity010 {
 
 	public static void main(String[] args) {
         HashMap<Integer, String> hash_map = new HashMap<Integer, String>();
