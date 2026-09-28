@@ -11,7 +11,7 @@ import org.openqa.selenium.interactions.PointerInput.Origin;
 import org.openqa.selenium.interactions.Sequence;
 import io.appium.java_client.AppiumDriver;
 
-public class ActionBase {
+public class Actionbase {
 	
 	private static PointerInput finger = new PointerInput(Kind.TOUCH,"finger");
 	
