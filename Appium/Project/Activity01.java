@@ -22,7 +22,7 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
 
-public class Activity1 {
+public class Activity01 {
 	
 	//Declaring the common objects
 	AppiumDriver driver;
