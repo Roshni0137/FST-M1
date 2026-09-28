@@ -17,7 +17,7 @@ import io.restassured.specification.ResponseSpecification;
 
 import static io.restassured.RestAssured.given;
 
-public class Activity3 {
+public class Activity003 {
 	
 	String baseURI = "https://petstore.swagger.io/v2/pet";
 	RequestSpecification requestSpec;
